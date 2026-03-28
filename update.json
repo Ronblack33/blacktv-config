@@ -1,13 +1,13 @@
 {
   "mobile": {
-    "versionCode": 24,
-    "versionName": "3.0 Móvil",
+    "versionCode": 26,
+    "versionName": "3.1 Móvil",
     "apkUrl": "https://www.dropbox.com/scl/fi/0frcuv4qm9cre71e22vb6/app-arm64-v8a-debug.apk?rlkey=fst83nvxwcv83kfpebs6ijuyq&st=kx6wpj3n&dl=1",
     "changelog": "🚀 Novedades Móvil:\n- Mejoras rendimiento.\n- Corrección de errores."
   },
   "tv": {
-    "versionCode": 24,
-    "versionName": "3.0 TV",
+    "versionCode": 26,
+    "versionName": "3.1 TV",
     "apkUrl": "https://www.dropbox.com/scl/fi/gajucim1ja172upu3jsby/app-armeabi-v7a-debug.apk?rlkey=xm45nahib4delywgymbtwdpx9&st=40at3f79&dl=1",
     "changelog": "🚀 Novedades TV Box:\n- mejoras de rendimiento.\n- Corrección de errores."
   }
