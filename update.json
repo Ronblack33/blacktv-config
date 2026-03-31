@@ -1,7 +1,7 @@
 {
   "mobile": {
     "versionCode": 29,
-    "versionName": "1.3 Móvil",
+    "versionName": "1.4 Móvil",
     "apkUrl": "https://www.dropbox.com/scl/fi/0frcuv4qm9cre71e22vb6/app-arm64-v8a-debug.apk?rlkey=fst83nvxwcv83kfpebs6ijuyq&st=kx6wpj3n&dl=1",
     "changelog": "🚀 Novedades Premium Móvil:\n\n📺 Nuevo OSD interactivo con Guía EPG completa.\n⚡ Navegación táctil ultra rápida con carga inteligente.\n⭐ Sistema de Favoritos 100% sincronizado con el menú principal."
   },
