@@ -2,13 +2,13 @@
   "mobile": {
     "versionCode": 34,
     "versionName": "1.9 Móvil",
-    "apkUrl": "https://www.dropbox.com/scl/fi/0frcuv4qm9cre71e22vb6/app-arm64-v8a-debug.apk?rlkey=fst83nvxwcv83kfpebs6ijuyq&st=kx6wpj3n&dl=1",
+    "apkUrl": "https://dl.dropboxusercontent.com/scl/fi/0frcuv4qm9cre71e22vb6/app-arm64-v8a-debug.apk?rlkey=fst83nvxwcv83kfpebs6ijuyq&st=kx6wpj3n",
     "changelog": "🚀 Novedades Premium Móvil:\n\n📺 Nuevo OSD interactivo con Guía EPG completa.\n⚡ Navegación táctil ultra rápida con carga inteligente.\n⭐ Sistema de Favoritos 100% sincronizado con el menú principal."
   },
   "tv": {
     "versionCode": 34,
     "versionName": "1.9 TV",
-    "apkUrl": "https://www.dropbox.com/scl/fi/gajucim1ja172upu3jsby/app-armeabi-v7a-debug.apk?rlkey=xm45nahib4delywgymbtwdpx9&st=40at3f79&dl=1",
+    "apkUrl": "https://dl.dropboxusercontent.com/scl/fi/gajucim1ja172upu3jsby/app-armeabi-v7a-debug.apk?rlkey=xm45nahib4delywgymbtwdpx9&st=40at3f79",
     "changelog": "🚀 Novedades Premium TV Box:\n\n📺 Nuevo menú OSD de 3 toques (Mini Guía y Próximo Programa).\n⚡ Zapping instantáneo usando flechas Arriba/Abajo del control.\n🛡️ Perro Guardián Anti-Fallo: Auto-reconexión por cortes de internet.\n🎞️ Video de emergencia en bucle para canales caídos.\n🚀 Scroll extremo sin pérdida de foco (Optimizado para poca RAM).\n⭐ Guardado de canales favoritos oficial habilitado."
   }
 }
