@@ -8,7 +8,7 @@
   "tv": {
     "versionCode": 35,
     "versionName": "2.0 TV",
-    "apkUrl": "https://www.dropbox.com/scl/fi/gajucim1ja172upu3jsby/app-armeabi-v7a-debug.apk?rlkey=xm45nahib4delywgymbtwdpx9&st=71x6wxgy&dl=0",
+    "apkUrl": "https://www.dropbox.com/scl/fi/gajucim1ja172upu3jsby/app-armeabi-v7a-debug.apk?rlkey=xm45nahib4delywgymbtwdpx9&st=71x6wxgy&dl=1",
     "changelog": "🚀 Novedades Premium TV Box:\n\n📺 Nuevo menú OSD de 3 toques (Mini Guía y Próximo Programa).\n⚡ Zapping instantáneo usando flechas Arriba/Abajo del control.\n🛡️ Perro Guardián Anti-Fallo: Auto-reconexión por cortes de internet.\n🎞️ Video de emergencia en bucle para canales caídos.\n🚀 Scroll extremo sin pérdida de foco.\n⭐ Guardado de canales favoritos oficial habilitado."
   }
 }
