@@ -3,11 +3,12 @@
     "versionCode": 39,
     "versionName": "2.5 Movil",
     "apkUrl": "https://www.dropbox.com/scl/fi/0frcuv4qm9cre71e22vb6/app-arm64-v8a-debug.apk?rlkey=fst83nvxwcv83kfpebs6ijuyq&st=gx6cvxxp&dl=1",
-    "changelog": "🚀 Novedades Premium Móvil:\n\n nueva edicion vod y series."
+    "changelog": "🚀 Novedades Premium Móvil:\n\n Nueva edicion VOD y Series."
+  },
   "tv": {
     "versionCode": 39,
     "versionName": "2.5 TV",
     "apkUrl": "https://www.dropbox.com/scl/fi/gajucim1ja172upu3jsby/app-armeabi-v7a-debug.apk?rlkey=xm45nahib4delywgymbtwdpx9&st=71x6wxgy&dl=1",
-    "changelog": "🚀 Novedades Premium TV Box:\n\n nueva edicion vod y series."
+    "changelog": "🚀 Novedades Premium TV Box:\n\n Nueva edicion VOD y Series."
   }
 }
